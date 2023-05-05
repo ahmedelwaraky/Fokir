@@ -1,0 +1,25 @@
+@media all and (max-width:575px){
+    .items .item {
+        width:100%
+    }
+}
+@media all and (min-width:576px) and (max-width:767px) {
+    .items .item {
+        width:50%
+    }
+}
+@media all and (min-width:768px) and (max-width:991px) {
+    .items .item {
+        width:33.33%
+    }
+}
+@media all and (min-width:992) and (max-width:1199) {
+    .items .item {
+        width:33.33%
+    }
+}
+@media all and (min-width:1200) {
+    .items .item {
+        width:33.33%
+    }
+}
